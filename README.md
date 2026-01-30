@@ -1,4 +1,4 @@
-<div align="center" style="padding-bottom: 16px">
+<div align="center">
   
 # 👋 Привет, я Максим Гайворонский
 
