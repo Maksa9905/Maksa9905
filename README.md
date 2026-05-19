@@ -16,6 +16,6 @@
 
 <p>
   <img width="1470" height="918" alt="Снимок экрана 2026-05-19 в 12 06 15" src="https://github.com/user-attachments/assets/e5a76dbe-fa8f-4a3f-8c21-ced3a9fb5d29" />
-  <img width="503" height="314" alt="Снимок экрана 2026-05-19 в 12 06 43" src="https://github.com/user-attachments/assets/4466445b-3632-49b7-a01d-4b415694c5c7" />
-  <img width="503" height="314" alt="Снимок экрана 2026-05-19 в 12 07 59" src="https://github.com/user-attachments/assets/ae5911f4-f2af-4097-9460-fa65fc05745c" />
+  <img width="calc(50% - 6px)" height="314" alt="Снимок экрана 2026-05-19 в 12 06 43" src="https://github.com/user-attachments/assets/4466445b-3632-49b7-a01d-4b415694c5c7" />
+  <img width="calc(50% - 6px)" height="314" alt="Снимок экрана 2026-05-19 в 12 07 59" src="https://github.com/user-attachments/assets/ae5911f4-f2af-4097-9460-fa65fc05745c" />
 </p>
